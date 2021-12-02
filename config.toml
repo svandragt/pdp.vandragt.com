@@ -1,0 +1,4 @@
+baseURL = 'https://pdp.vandragt.com/'
+languageCode = 'en-GB'
+title = 'Open Personal Development Plan'
+theme = "ananke"
